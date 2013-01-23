@@ -19,10 +19,10 @@ Through course readings, class discussions, in-class activities, and a course-lo
 	- develop guidelines, documentation, and policy
 	- design metadata creation workflows and processes
 	- implement and document quality control procedures
-	- something about plannning for shareable metadata
+	- repurpose metadata through crosswalks and transformations
 - gain familiarity with a wide range of current structural, content, encoding, and vocabulary standards and an appreciation for how standards grow and evolve within communities of practice.
-- learn tools and techniques for metadata creation and manipulation
-- gain an awareness of current developments across the rapidly-changing bibliographic landscape
+- learn tools and techniques for metadata creation and manipulation.
+- gain an awareness of current developments across the rapidly-changing bibliographic landscape.
 
 #### CLASS SCHEDULE
 (subject to change)  
