@@ -1,5 +1,5 @@
 #### Standards Case Study Assignment  
-Due 2/18
+Due 2/25
 (20 points)
 
 You will choose one of the standards from Jenn Riley's 'Seeing standards: A visualization of the metadata universe' ([http://www.dlib.indiana.edu/~jenlrile/metadatamap/](http://www.dlib.indiana.edu/~jenlrile/metadatamap/)) and research its scope, purpose, audience, and development (2 pages max., single-spaced). The standard's website, specification, and associated listservs are all good places to look to answer the following questions:
