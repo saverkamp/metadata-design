@@ -28,7 +28,9 @@ Through course readings, class discussions, in-class activities, and a course-lo
 (subject to change)  
 Readings and assignments are due the week they are listed.
 
-#### Week 1 ~ What is Metadata? ~ 1/28
+#### Week 1 ~ CANCELLED ~ 1/28
+
+#### Week 2 ~ What is Metadata? ~ 2/4
 
 **Readings**
 - Weinberger, D. (2007). The new order of order. In *Everything is Miscellaneous* (Chapter one). [http://www.everythingismiscellaneous.com/wp-content/samples/eim-sample-chapter1.html](http://www.everythingismiscellaneous.com/wp-content/samples/eim-sample-chapter1.html)
@@ -41,7 +43,11 @@ Bring an example of metadata to share with the class.
 **In-class activity**  
 Schema.org
 
-#### Week 2 ~ Data Models ~ 2/4
+#### Week 3 ~ NO CLASS ~ 2/11
+
+Enjoy [Code4Lib2013](http://code4lib.org/conference/2013/)! Stream it live at: (link to follow)
+
+#### Week 4 ~ Data Models ~ 2/18
   
 **Readings**
 - Tillet, B. (2004). What is FRBR?: A conceptual model for the bibliographic universe. [http://www.loc.gov/catdir/cpso/whatfrbr.html](http://www.loc.gov/catdir/cpso/whatfrbr.html)
@@ -52,10 +58,7 @@ Schema.org
 **In-class activity**  
 Data modeling exercise
 
-#### Week 3 ~ 2/11
-no class  
-
-#### Week 4 ~ Standards ~ 2/18
+#### Week 5 ~ Standards ~ 2/25
   
 **Readings**
 - Bono, J., Hisayasu, C., Sayers, J. J., & Wilson, M. (2012). Standards in the making. In D. Journet, C. E. Ball, & R. Trauman (Eds.), *The new work of composing*. [http://www.jenterysayers.com/sitm/](http://www.jenterysayers.com/sitm/)
@@ -67,7 +70,7 @@ TBA
 **Assignment Due**  
 Standards case study
 
-#### Week 5 ~ Dublin Core, Vocabularies ~ 2/25
+#### Week 6 ~ Dublin Core, Vocabularies, Identifiers ~ 3/4
 
 - Harper, C. (2010). Dublin Core Metadata Initiative: Beyond the element set. *Information Standards Quarterly* 22(1). [http://dx.doi.org/10.3789/isqv22n1.201004](http://dx.doi.org/10.3789/isqv22n1.201004)
 - Dublin Core Metadata Element Set, Version 1.1 [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/)
@@ -81,15 +84,6 @@ TBA
 **Assignment Due**  
 Draft of Scope, Audience and User Tasks
 
-#### Week 6 ~ Identifiers ~ 3/4
- 
-**Readings**   
-TBA
-
-**Assignment Due**  
-Draft of Standards Used section
-
-
 #### Week 7 ~ Content guidelines ~ 3/11
   
 **Readings**
@@ -100,11 +94,17 @@ Draft of Standards Used section
 **In-class activity**  
 TBA
 
+**Assignment Due**  
+Draft of Standards Used section
+
 #### Week 8 ~ Name Authorities ~ 3/25
 
 **Readings**  
 - The Friend of a Friend (FOAF) project. [http://www.foaf-project.org/](http://www.foaf-project.org/)
+- Calhoun, K. (1998). A bird's-eye view of authority control in cataloging. In *Proceedings of the Taxonomic 
+Authority Files*. [http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html](http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html)
 - Haak, L., Fenner, M., Paglione, L., Pentz, E., & Ratner, H. (2012) ORCID: A system to uniquely identify researchers. *Learned Publishing* 25(4). [http://dx.doi.org/10.1087/20120404](http://dx.doi.org/10.1087/20120404)
+- Virtual International Authority File (VIAF). [http://viaf.org](http://viaf.org) 
 - More TBA
 
 **In-class activity**  
