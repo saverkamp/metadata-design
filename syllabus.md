@@ -45,7 +45,7 @@ Schema.org
 
 #### Week 3 ~ NO CLASS ~ 2/11
 
-Enjoy [Code4Lib2013](http://code4lib.org/conference/2013/)! Stream it live at: (link to follow)
+Enjoy [Code4Lib2013](http://code4lib.org/conference/2013/)! Stream it live at: [http://new.livestream.com/accounts/2768983/events/1865025?device_panel=true](http://new.livestream.com/accounts/2768983/events/1865025?device_panel=true)
 
 #### Week 4 ~ Data Models ~ 2/18
   
