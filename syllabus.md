@@ -77,7 +77,6 @@ Standards case study
 - Dublin Core Metadata Element Set, Version 1.1 [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/)
 - DCMI Metadata Terms [http://dublincore.org/documents/dcmi-terms/](http://dublincore.org/documents/dcmi-terms/)
 - Vatant, B. & Vandenbussche, P-Y. (Eds.). Linked open vocabularies (LOV). [http://lov.okfn.org/dataset/lov/index.html](http://lov.okfn.org/dataset/lov/index.html)
-- More TBA
 
 **In-class activity**  
 TBA
