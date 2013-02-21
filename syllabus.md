@@ -73,6 +73,7 @@ Standards case study
 #### Week 6 ~ Dublin Core, Vocabularies, Identifiers ~ 3/4
 
 - Harper, C. (2010). Dublin Core Metadata Initiative: Beyond the element set. *Information Standards Quarterly* 22(1). [http://dx.doi.org/10.3789/isqv22n1.201004](http://dx.doi.org/10.3789/isqv22n1.201004)
+- Summers, E. (2013). Linking things on the web: A pragmatic examination of Linked Data for libraries, archives, and museums. [http://arxiv.org/abs/1302.4591](http://arxiv.org/abs/1302.4591)
 - Dublin Core Metadata Element Set, Version 1.1 [http://dublincore.org/documents/dces/](http://dublincore.org/documents/dces/)
 - DCMI Metadata Terms [http://dublincore.org/documents/dcmi-terms/](http://dublincore.org/documents/dcmi-terms/)
 - Vatant, B. & Vandenbussche, P-Y. (Eds.). Linked open vocabularies (LOV). [http://lov.okfn.org/dataset/lov/index.html](http://lov.okfn.org/dataset/lov/index.html)
