@@ -65,7 +65,7 @@ Data modeling exercise
 - Riley, J. (2010). Seeing standards: A visualization of the metadata universe. [http://www.dlib.indiana.edu/~jenlrile/metadatamap/](http://www.dlib.indiana.edu/~jenlrile/metadatamap/)
 
 **In-class activity**  
-XML -- You may want to use your own text/code editor for this exercise. If you'd like to try using an XML editor, oXygen offers a 30-day free trial at [http://www.oxygenxml.com/register.html](http://www.oxygenxml.com/register.html). See the Resources wiki page for more free XML editors. For this exercise, bring an information object to describe in [MODS XML](http://www.loc.gov/standards/mods/).  
+XML -- You may want to use your own text/code editor for this exercise. If you'd like to try using an XML editor, oXygen offers a 30-day free trial at [http://www.oxygenxml.com/register.html](http://www.oxygenxml.com/register.html). See the Resources wiki page for more free XML editors. For this exercise, bring an information object to describe in [MODS XML](http://www.loc.gov/standards/mods/). Follow along with the slides at: [https://docs.google.com/file/d/0B3MVgDkaZLeqUkRCSlJOWEpfUm8/edit?usp=sharing](https://docs.google.com/file/d/0B3MVgDkaZLeqUkRCSlJOWEpfUm8/edit?usp=sharing)
 
 **Assignment Due**  
 Standards case study
