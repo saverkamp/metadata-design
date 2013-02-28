@@ -10,7 +10,7 @@ Data Services Librarian
 University of Iowa Libraries  
 1015 Main Library  
 shawn-averkamp@uiowa.edu  
-Office Hours: Th 5-7pm or by appointment
+Office Hours: W 5-7pm or by appointment
 
 #### COURSE OBJECTIVES
 Through course readings, class discussions, in-class activities, and a course-long project, students will:
