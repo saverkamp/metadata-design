@@ -82,7 +82,7 @@ Standards case study
 TBA
 
 **Assignment Due**  
-Draft of Scope, Audience and User Tasks
+[Draft of Scope, Audience and User Tasks](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#1-project-scope-audience-user-tasks)
 
 #### Week 7 ~ Content guidelines ~ 3/11
   
@@ -95,7 +95,7 @@ Draft of Scope, Audience and User Tasks
 TBA
 
 **Assignment Due**  
-Draft of Standards Used section
+[Draft of Standards Used section](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#2-standards)
 
 #### Week 8 ~ Name Authorities ~ 3/25
 
@@ -122,7 +122,7 @@ MarcEdit
 TBA
 
 **Assignment Due**  
-Draft of data dictionary
+[Draft of data dictionary](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#3-data-dictionary)
 
 **In-class activity**  
 TBA
@@ -136,7 +136,7 @@ TBA
 - Mark Anderson, Digital Scholarship Librarian, UI Libraries
 
 **Assignment Due**  
-Draft of Metadata Creation Guidelines/Process
+[Draft of Metadata Creation Guidelines/Process](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#4-metadata-creation-guidelinesprocess)
 
 #### Week 11 ~ Quality ~ 4/15
 
@@ -146,7 +146,7 @@ Draft of Metadata Creation Guidelines/Process
 - Westbrook, R. N., Johnson, D., Carter, K., & Lockwood, A. (2012). Metadata clean sweep: A digital library audit project. *D-Lib Magazine* 18(5/6). [http://dx.doi.org/10.1045/may2012-westbrook](http://dx.doi.org/10.1045/may2012-westbrook)
 
 **Assignment Due**  
-Draft of 2 metadata examples
+[Draft of 2 metadata examples](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#7-examples)
 
 **In-class activity**  
 TBA
@@ -160,7 +160,7 @@ TBA
 - Watters, A.  The search for a minimum viable record: Open Library's George Oates on the pursuit of concise categorization. *O'Reilly Strata*. [http://strata.oreilly.com/2011/05/minimum-viable-record.html](http://strata.oreilly.com/2011/05/minimum-viable-record.html) 
 
 **Assignment Due**  
-Draft of quality control plan
+[Draft of quality control plan](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#5-quality-control-plan)
 
 **In class activity**  
 TBA
@@ -173,8 +173,7 @@ TBA
 - More TBA
 
 **Assignment Due**   
-Crosswalks  
-Metadata for 20 resources
+[Crosswalks](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks)  
 
 **In-class activity**  
 TBA
@@ -185,6 +184,6 @@ TBA
 - Vollmer, T. (2012 Aug 14). Library catalog metadata: Open licensing or public domain? *Creative Commons: News*. [http://creativecommons.org/weblog/entry/33768](http://creativecommons.org/weblog/entry/33768)
 
 **Aggregation party**  
-BYO Metadata -- 20 resources in QDC
+BYO Metadata -- [20 resources in QDC](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#9-metadata)
 
 
