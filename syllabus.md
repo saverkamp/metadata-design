@@ -79,7 +79,7 @@ Standards case study
 - Vatant, B. & Vandenbussche, P-Y. (Eds.). Linked open vocabularies (LOV). [http://lov.okfn.org/dataset/lov/index.html](http://lov.okfn.org/dataset/lov/index.html)
 
 **In-class activity**  
-TBA
+JSON -- Short tutorial on reading and creating JSON using [BibJSON](http://www.bibjson.org/)
 
 **Assignment Due**  
 [Draft of Scope, Audience and User Tasks](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#1-project-scope-audience-user-tasks)
