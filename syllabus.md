@@ -107,6 +107,12 @@ Authority Files*. [http://researcharchive.calacademy.org/research/informatics/ta
 - Virtual International Authority File (VIAF). [http://viaf.org](http://viaf.org) 
 - More TBA
 
+**Guest Speakers**
+- Duncan Stewart, Cataloging Librarian, UI Libraries, will talk about LC name authorities
+- Wendy Robertson, Digital Scholarship Librarian, UI Libraries, will talk about ORCID and issues with names in institutional repositories  
+
+CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan to answer.
+
 **In-class activity**  
 MarcEdit
 
@@ -125,6 +131,9 @@ TBA
   
 **Readings**  
 TBA
+
+**Guest Speaker**  
+- Mark Anderson, Digital Scholarship Librarian, UI Libraries
 
 **Assignment Due**  
 Draft of Metadata Creation Guidelines/Process
