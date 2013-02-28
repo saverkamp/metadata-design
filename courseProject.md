@@ -2,7 +2,11 @@
 
 #### 1. Project Scope, Audience, User tasks
 _Draft due: 3/4_  
-Define the scope of the resources you plan to describe in your project. Describe the anticipated users and uses of your resources. What properties of your resources will you describe to support the anticipated use?  
+Define the scope of the resources you plan to describe in your project (i.e., the type and content of your resources, the approximate number of resources). It might be helpful to give examples of resources that are within the scope of your project as well as examples of resources you consider to be out of scope. Keep in mind that this can be as large in scale as you want--you will write all documentation as though you are carrying out a metadata project at the scale proposed, but for the purposes of the course project, you will only need to submit metadata for 20 of your resources. 
+
+What is the purpose of this description project? Who is the audience? Describe the anticipated users and uses of your resources.  What properties of your resources will you describe to support the anticipated use?  
+
+Use any format you like to answer the what, why, and who of your metadata project. This document will serve as an introduction to the rest of your project documentation.  
 (1 page max., single-spaced)
 
 #### 2. Standards  
