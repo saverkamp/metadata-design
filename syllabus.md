@@ -130,7 +130,8 @@ TBA
 #### Week 10 ~ Place and Time ~ 4/8
   
 **Readings**  
-TBA
+- Munroe, Randall. (2013). ISO 8601. [http://bit.ly/ZgTxxb](http://bit.ly/ZgTxxb)
+- More TBA
 
 **Guest Speaker**  
 - Mark Anderson, Digital Scholarship Librarian, UI Libraries
