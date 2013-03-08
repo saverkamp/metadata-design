@@ -92,7 +92,7 @@ JSON -- Short tutorial on reading and creating JSON using [BibJSON](http://www.b
 - Library of Congress Linked Data Services Authorities and Vocabularies: [http://id.loc.gov/](http://id.loc.gov/)
 
 **In-class activity**  
-TBA
+Co-working on data dictionaries
 
 **Assignment Due**  
 [Draft of Standards Used section](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#2-standards)
