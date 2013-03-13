@@ -105,7 +105,7 @@ Co-working on data dictionaries
 Authority Files*. [http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html](http://researcharchive.calacademy.org/research/informatics/taf/proceedings/Calhoun.html)
 - Haak, L., Fenner, M., Paglione, L., Pentz, E., & Ratner, H. (2012) ORCID: A system to uniquely identify researchers. *Learned Publishing* 25(4). [http://dx.doi.org/10.1087/20120404](http://dx.doi.org/10.1087/20120404)
 - Virtual International Authority File (VIAF). [http://viaf.org](http://viaf.org) 
-- More TBA
+- Furie, B. (2009). What is a MARC record and why is it important? In *Understanding MARC Bibliographic: Machine-readable cataloging.* Library of Congress. [http://www.loc.gov/marc/umb/](http://www.loc.gov/marc/umb/)
 
 **Guest Speakers**
 - Duncan Stewart, Cataloging Librarian, UI Libraries, will talk about LC name authorities
@@ -114,7 +114,7 @@ Authority Files*. [http://researcharchive.calacademy.org/research/informatics/ta
 CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan to answer.
 
 **In-class activity**  
-MarcEdit
+MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marcedit/html/index.php) on your machine before class (YMMV with Mac installations, so don't sweat it if you can't get it installed--you'll just share with Windows users.)
 
 #### Week 9 ~ Subjects ~ 4/1
 
