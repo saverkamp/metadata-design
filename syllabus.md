@@ -119,7 +119,8 @@ MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marc
 #### Week 9 ~ Subjects ~ 4/1
 
 **Readings**  
-TBA
+- Svenonius, E. (2000). LCSH: Semantics, syntax, and specificity. *Cataloging & Classification Quarterly* 29(1-2). [http://dx.doi.org/10.1300/J104v29n01_02](http://dx.doi.org/10.1300/J104v29n01_02)
+- More TBA
 
 **Assignment Due**  
 [Draft of data dictionary](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#3-data-dictionary)
