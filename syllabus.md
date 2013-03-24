@@ -116,11 +116,13 @@ CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan 
 **In-class activity**  
 MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marcedit/html/index.php) on your machine before class (YMMV with Mac installations, so don't sweat it if you can't get it installed--you'll just share with Windows users.)
 
-#### Week 9 ~ Subjects ~ 4/1
+#### Week 9 ~ Aboutness ~ 4/1
 
 **Readings**  
+- Harpring, P. (2010). Introduction to controlled vocabularies: Terminologies for art, architecture, and other cultural works. Getty Publications. [http://www.getty.edu/research/publications/electronic\_publications/intro\_controlled_vocab/index.html](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/index.html)
+- Ockerbloom, J. M. (2009 Dec 4). Understanding concept-oriented catalogs. *Everybody's Libraries.* [http://everybodyslibraries.com/2009/12/04/understanding-concept-oriented-catalogs/](http://everybodyslibraries.com/2009/12/04/understanding-concept-oriented-catalogs/)
+- Ockerbloom, J. M. (2009 Dec 10). Some concepts and their catalogs. *Everybody's Libraries.* [http://everybodyslibraries.com/2009/12/10/some-concepts-and-their-catalogs/](http://everybodyslibraries.com/2009/12/10/some-concepts-and-their-catalogs/)
 - Svenonius, E. (2000). LCSH: Semantics, syntax, and specificity. *Cataloging & Classification Quarterly* 29(1-2). [http://dx.doi.org/10.1300/J104v29n01_02](http://dx.doi.org/10.1300/J104v29n01_02)
-- More TBA
 
 **Assignment Due**  
 [Draft of data dictionary](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#3-data-dictionary)
@@ -132,7 +134,9 @@ TBA
   
 **Readings**  
 - Munroe, Randall. (2013). ISO 8601. [http://bit.ly/ZgTxxb](http://bit.ly/ZgTxxb)
-- More TBA
+- Korpela, J. (2008). Info on ISO 8601, the date and time representation standard. [http://www.cs.tut.fi/~jkorpela/iso8601.html](http://www.cs.tut.fi/~jkorpela/iso8601.html)
+- White, S., Garton, S., White, G. and Robertson, S. (2010). Digital Harlem: Everyday life 1915-1930. [http://acl.arts.usyd.edu.au/harlem/](http://acl.arts.usyd.edu.au/harlem/)
+- Robertson, S. (2012). Putting Harlem on the map. In Dougherty, J. and Nawrotzki, K. (Eds.), *Writing history in the digital age.* [http://writinghistory.trincoll.edu/evidence/robertson-2012-spring/](http://writinghistory.trincoll.edu/evidence/robertson-2012-spring/)
 
 **Guest Speaker**  
 - Mark Anderson, Digital Scholarship Librarian, UI Libraries
