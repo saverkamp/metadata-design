@@ -128,7 +128,7 @@ MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marc
 [Draft of data dictionary](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#3-data-dictionary)
 
 **In-class activity**  
-TBA
+[OpenRefine](http://openrefine.org/) (formerly Google Refine)  
 
 #### Week 10 ~ Place and Time ~ 4/8
   
