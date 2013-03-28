@@ -108,7 +108,7 @@ Authority Files*. [http://researcharchive.calacademy.org/research/informatics/ta
 - Furie, B. (2009). What is a MARC record and why is it important? In *Understanding MARC Bibliographic: Machine-readable cataloging.* Library of Congress. [http://www.loc.gov/marc/umb/](http://www.loc.gov/marc/umb/)
 
 **Guest Speakers**
-- Duncan Stewart, Cataloging Librarian, UI Libraries, will talk about LC name authorities
+- Duncan Stewart, Cataloging Librarian, UI Libraries, will talk about LC name authorities [[slides]](https://docs.google.com/file/d/0B3MVgDkaZLeqOWNJcElUSno1ck0/edit?usp=sharing)
 - Wendy Robertson, Digital Scholarship Librarian, UI Libraries, will talk about ORCID and issues with names in institutional repositories  
 
 CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan to answer.
