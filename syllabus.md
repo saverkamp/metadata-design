@@ -116,7 +116,7 @@ CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan 
 **In-class activity**  
 MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marcedit/html/index.php) on your machine before class (YMMV with Mac installations, so don't sweat it if you can't get it installed--you'll just share with Windows users.)
 
-#### Week 9 ~ Aboutness ~ 4/1
+#### Week 9 ~ Aboutness/Isness ~ 4/1
 
 **Readings**  
 - Harpring, P. (2010). Introduction to controlled vocabularies: Terminologies for art, architecture, and other cultural works. Getty Publications. [http://www.getty.edu/research/publications/electronic\_publications/intro\_controlled_vocab/index.html](http://www.getty.edu/research/publications/electronic_publications/intro_controlled_vocab/index.html)
@@ -128,7 +128,7 @@ MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marc
 [Draft of data dictionary](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#3-data-dictionary)
 
 **In-class activity**  
-[OpenRefine](http://openrefine.org/) (formerly Google Refine)  
+[OpenRefine](http://openrefine.org/) (formerly Google Refine) -- We'll follow the tutorial(s) from [Free Your Metadata](http://freeyourmetadata.org/) using sample metadata [here](https://github.com/saverkamp/metadata-design/blob/master/ephemera/railroadiana.txt).   
 
 #### Week 10 ~ Place and Time ~ 4/8
   
