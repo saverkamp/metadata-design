@@ -137,9 +137,13 @@ MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marc
 - Korpela, J. (2008). Info on ISO 8601, the date and time representation standard. [http://www.cs.tut.fi/~jkorpela/iso8601.html](http://www.cs.tut.fi/~jkorpela/iso8601.html)
 - White, S., Garton, S., White, G. and Robertson, S. (2010). Digital Harlem: Everyday life 1915-1930. [http://acl.arts.usyd.edu.au/harlem/](http://acl.arts.usyd.edu.au/harlem/)
 - Robertson, S. (2012). Putting Harlem on the map. In Dougherty, J. and Nawrotzki, K. (Eds.), *Writing history in the digital age.* [http://writinghistory.trincoll.edu/evidence/robertson-2012-spring/](http://writinghistory.trincoll.edu/evidence/robertson-2012-spring/)
+- Getty Thesaurus of Online Names (TGN): About the TGN. [http://www.getty.edu/research/tools/vocabularies/tgn/about.html](http://www.getty.edu/research/tools/vocabularies/tgn/about.html) (You can skim this.)
 
 **Guest Speaker**  
 - Mark Anderson, Digital Scholarship Librarian, UI Libraries
+
+**In-class activity**  
+Geocoding exercises with Mark, using sample data [here](https://github.com/saverkamp/metadata-design/blob/master/ephemera/iwa-raw-coll-geog.txt)  
 
 **Assignment Due**  
 [Draft of Metadata Creation Guidelines/Process](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#4-metadata-creation-guidelinesprocess)
