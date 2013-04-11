@@ -109,7 +109,7 @@ Authority Files*. [http://researcharchive.calacademy.org/research/informatics/ta
 
 **Guest Speakers**
 - Duncan Stewart, Cataloging Librarian, UI Libraries, will talk about LC name authorities [[slides]](https://docs.google.com/file/d/0B3MVgDkaZLeqOWNJcElUSno1ck0/edit?usp=sharing)
-- Wendy Robertson, Digital Scholarship Librarian, UI Libraries, will talk about ORCID and issues with names in institutional repositories  
+- Wendy Robertson, Digital Scholarship Librarian, UI Libraries, will talk about ORCID and issues with names in institutional repositories [[talk]](http://wendycrobertson.com/2013/04/08/ir-name-metadata/)   
 
 CATALOGER PANEL -- bring your obscure cataloging questions for Wendy and Duncan to answer.
 
@@ -140,7 +140,7 @@ MarcEdit -- Please install [MarcEdit](http://people.oregonstate.edu/~reeset/marc
 - Getty Thesaurus of Online Names (TGN): About the TGN. [http://www.getty.edu/research/tools/vocabularies/tgn/about.html](http://www.getty.edu/research/tools/vocabularies/tgn/about.html) (You can skim this.)
 
 **Guest Speaker**  
-- Mark Anderson, Digital Scholarship Librarian, UI Libraries
+- Mark Anderson, Digital Scholarship Librarian, UI Libraries [[slides]](https://docs.google.com/file/d/0B3MVgDkaZLeqSHV5dEpnM016aWc/edit?usp=sharing)  
 
 **In-class activity**  
 Geocoding exercises with Mark, using sample data [here](https://github.com/saverkamp/metadata-design/blob/master/ephemera/iwa-raw-coll-geog.txt)  
