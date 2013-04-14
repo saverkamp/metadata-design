@@ -34,17 +34,15 @@ In your final document, include a policy statement outlining how others may re-u
 _Draft due: 4/15_  
 Provide examples of metadata for 2 resources. For the draft, send digital files in your metadata's data format. For the final draft, include human-readable examples within the text of your document. 
 
-#### 8. Crosswalks
+#### 8. Crosswalk to Metadata Class schema
 _Draft due: 4/29_  
-You will submit two crosswalks with your project:
-1. Choose a classmate's schema to crosswalk your metadata to, or work with a classmate to design a common schema that you will both crosswalk to. Include notes for each data element, where necessary, to explain what steps you would take for normalizing your data values to fit your classmate's guidelines. Also note where you are missing mandatory data elements and what steps you would take to provide them. 
-2. Crosswalk your metadata to Qualified Dublin Core for the purposes of class aggregation.  
+You will crosswalk your metadata to our class schema (based on Qualified Dublin Core) for the purposes of class aggregation.  Include notes for each data element, where necessary, to explain what steps you would take for normalizing your data values to fit the schema requirements. Also note where you are missing mandatory data elements and what steps you would take to provide them.   
 
-Use any format you like for your crosswalks, but final drafts should be human-readable and easily printed (i.e., included within the text of your final document).
+Use any format you like for your crosswalks (though tables are usually used for this type of documentation), but final drafts should be human-readable and easily printed (i.e., included within the text of your final document).
 
 #### 9. Metadata
 _Due 5/6 for Aggregation Party_  
-Digital files for 20 of your resources described in Qualified Dublin Core (using your crosswalk)
+Digital files for 20 of your resources described in the class schema (using your crosswalk).  
 
 _Due with final draft_  
 Digital file(s) for at least 20 resources described by your guidelines.
