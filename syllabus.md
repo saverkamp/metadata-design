@@ -159,7 +159,7 @@ Geocoding exercises with Mark, using sample data [here](https://github.com/saver
 [Draft of 2 metadata examples](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#7-examples)
 
 **In-class activity**  
-TBA
+Introduction to APIs  
 
 #### Week 12 ~ Interoperability ~ 4/22
  
@@ -183,7 +183,7 @@ TBA
 - More TBA
 
 **Assignment Due**   
-[Crosswalks](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks)  
+[Crosswalk to Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks)  
 
 **In-class activity**  
 TBA
@@ -194,6 +194,6 @@ TBA
 - Vollmer, T. (2012 Aug 14). Library catalog metadata: Open licensing or public domain? *Creative Commons: News*. [http://creativecommons.org/weblog/entry/33768](http://creativecommons.org/weblog/entry/33768)
 
 **Aggregation party**  
-BYO Metadata -- [20 resources in QDC](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#9-metadata)
+BYO Metadata -- [20 resources in Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#9-metadata)
 
 
