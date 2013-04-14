@@ -182,7 +182,8 @@ TBA
 - Isaac, A., Clayphan, R., & Haslhofer, B. (2012). Europeana: Moving to linked open data. *Information Standards Quarterly* 24(2/3). [http://dx.doi.org/10.3789/isqv24n2-3.2012.06](http://dx.doi.org/10.3789/isqv24n2-3.2012.06)
 - More TBA
 
-**Assignment Due**   
+**Assignments Due**   
+[Metadata Creation Guidelines Critique](https://github.com/saverkamp/metadata-design/blob/master/guidelinesCritique.md)  
 [Crosswalk to Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks)  
 
 **In-class activity**  
