@@ -184,10 +184,10 @@ TBA
 
 **Assignments Due**   
 [Metadata Creation Guidelines Critique](https://github.com/saverkamp/metadata-design/blob/master/guidelinesCritique.md)  
-[Crosswalk to Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks)  
+[Crosswalk](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks) to [Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/classSchema.md)  
 
 **In-class activity**  
-TBA
+Intro to XSLT  
 
 #### Week 14 ~ Policy ~ 5/6
 **Readings**  
