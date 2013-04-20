@@ -164,7 +164,7 @@ Introduction to APIs
 #### Week 12 ~ Interoperability ~ 4/22
  
 **Readings**  
-- Shreeves, S., Riley, J., & Milewicz, L. (2006). Moving towards shareable metadata. *First Monday* 11(8). [http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1386/1304](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1386/1304)
+- Shreeves, S., Riley, J., & Milewicz, L. (2006). Moving towards shareable metadata. *First Monday* 11(8). [http://firstmonday.org/ojs/index.php/fm/article/view/1386](http://firstmonday.org/ojs/index.php/fm/article/view/1386)
 - Woodley, M. (2008). Crosswalks, metadata harvesting, federated searching, metasearching: Using metadata to connect users and information. In M. Baca (Ed.), *Introduction to Metadata, Online Edition, Version 3.0* [http://www.getty.edu/research/publications/electronic_publications/intrometadata/path.html](http://www.getty.edu/research/publications/electronic_publications/intrometadata/path.html)
 - Oates, G. (2011 Apr 11). Minimum viable record? *The Open Library Blog*. [http://blog.openlibrary.org/2011/04/11/minimum-viable-record/](http://blog.openlibrary.org/2011/04/11/minimum-viable-record/)
 - Watters, A.  The search for a minimum viable record: Open Library's George Oates on the pursuit of concise categorization. *O'Reilly Strata*. [http://strata.oreilly.com/2011/05/minimum-viable-record.html](http://strata.oreilly.com/2011/05/minimum-viable-record.html) 
@@ -173,21 +173,22 @@ Introduction to APIs
 [Draft of quality control plan](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#5-quality-control-plan)
 
 **In class activity**  
-TBA
+Intro to XSLT
 
 #### Week 13 ~ Aggregation ~ 4/29
 
 **Readings** 
 - OAI for beginners: The Open Archives Forum online tutorial. [http://www.oaforum.org/tutorial/index.php](http://www.oaforum.org/tutorial/index.php) (Read the first 3 modules.)
 - Isaac, A., Clayphan, R., & Haslhofer, B. (2012). Europeana: Moving to linked open data. *Information Standards Quarterly* 24(2/3). [http://dx.doi.org/10.3789/isqv24n2-3.2012.06](http://dx.doi.org/10.3789/isqv24n2-3.2012.06)
-- More TBA
+- Schutte, A. (2013 Mar 22). A plan for libraries to aggregate metadata into one central portal. *Knight Blog*. [http://www.knightfoundation.org/blogs/knightblog/2013/3/22/plan-libraries-aggregate-metadata-one-central-portal/](http://www.knightfoundation.org/blogs/knightblog/2013/3/22/plan-libraries-aggregate-metadata-one-central-portal/)  
+- DPLA. [http://dp.la/](http://dp.la/)  
 
 **Assignments Due**   
 [Metadata Creation Guidelines Critique](https://github.com/saverkamp/metadata-design/blob/master/guidelinesCritique.md)  
 [Crosswalk](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks) to [Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/classSchema.md)  
 
 **In-class activity**  
-Intro to XSLT  
+TBA 
 
 #### Week 14 ~ Policy ~ 5/6
 **Readings**  
