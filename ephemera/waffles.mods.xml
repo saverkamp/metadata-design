@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods version="3.3" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+	<titleInfo>
+		<title>American Waffles</title>
+		<subTitle>A Love Story</subTitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart>Lefse, Lois</namePart>
+		<role>
+			<roleTerm type="text">Author</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart>Crepe, Cary</namePart>
+		<role>
+			<roleTerm type="text">Lyricist</roleTerm>
+		</role>
+	</name>
+	<typeOfResource>moving image</typeOfResource>
+	<genre authority="lcgft">Musical films</genre>
+	<originInfo>
+		<dateCreated encoding="w3cdtf">2013</dateCreated>
+	</originInfo>
+	<language>
+		<languageTerm authority="iso639-2b">eng</languageTerm>
+	</language>
+	<physicalDescription>
+		<extent>1 DVD</extent>
+	</physicalDescription>
+	<abstract>A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful waffle he meets... only to fall in love.</abstract>
+	<subject authority="lcsh">
+		<topic>Waffles</topic>
+		<genre>Drama</genre>
+	</subject>
+	<subject authority="lcsh">
+		<topic>Feature films</topic>
+		<geographic>United States</geographic>
+	</subject>
+	<identifier type="isbn">0788820958</identifier>
+	<location>
+		<physicalLocation>International House of Pancakes. Center for Film Studies</physicalLocation>
+	</location>
+</mods>
