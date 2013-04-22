@@ -173,7 +173,7 @@ Introduction to APIs
 [Draft of quality control plan](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#5-quality-control-plan)
 
 **In class activity**  
-Intro to XSLT
+Intro to XSLT [[slides]](https://docs.google.com/presentation/d/19HlS3XpYne6quxK__skYnAEnftcPFMhK-o2qxz5FsJM/edit?usp=sharing)  
 
 #### Week 13 ~ Aggregation ~ 4/29
 
