@@ -188,12 +188,13 @@ Intro to XSLT [[slides]](https://docs.google.com/presentation/d/19HlS3XpYne6quxK
 [Crosswalk](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks) to [Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/classSchema.md)  
 
 **In-class activity**  
-TBA 
+Regular expressions and string manipulation  
 
 #### Week 14 ~ Policy ~ 5/6
 **Readings**  
 - Smith, M.(2011 June 6). Proposed: A 4-star classification-scheme for linked open cultural metadata. *LOD-LAM Summit 2011*. [http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/](http://lod-lam.net/summit/2011/06/06/proposed-a-4-star-classification-scheme-for-linked-open-cultural-metadata/) (Also read some of the comments.)
 - Vollmer, T. (2012 Aug 14). Library catalog metadata: Open licensing or public domain? *Creative Commons: News*. [http://creativecommons.org/weblog/entry/33768](http://creativecommons.org/weblog/entry/33768)
+- Coyle, K. (2013 Feb 28). Metadata and copyright | Peer to peer review. *Library Journal*. [http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/](http://lj.libraryjournal.com/2013/02/opinion/peer-to-peer-review/metadata-and-copyright-peer-to-peer-review/)  
 
 **Aggregation party**  
 BYO Metadata -- [20 resources in Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#9-metadata)
