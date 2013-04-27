@@ -48,5 +48,6 @@ _Due with final draft_
 Digital file(s) for at least 20 resources described by your guidelines.
 
 #### Final essay: Lessons Learned
-_Due with final draft_  
-Details to follow
+_Due with final draft--5/17 5pm_  
+How well do you feel your choices in structural standards (i.e., schema, elements), content standards (formal or informal), value vocabularies (or lack thereof), and serialization supported your user tasks?  What would you do differently in future projects? Cite readings from the course where appropriate.  
+(~2 p., single-spaced, give or take a 1/2 page)
