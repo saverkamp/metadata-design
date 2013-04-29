@@ -188,7 +188,7 @@ Intro to XSLT [[slides]](https://docs.google.com/presentation/d/19HlS3XpYne6quxK
 [Crosswalk](https://github.com/saverkamp/metadata-design/blob/master/courseProject.md#8-crosswalks) to [Metadata class schema](https://github.com/saverkamp/metadata-design/blob/master/classSchema.md)  
 
 **In-class activity**  
-Regular expressions and string manipulation  
+Regular expressions and string manipulation [[slides]](https://docs.google.com/presentation/d/1dNlSnbvzrBMWKjh2rFtl3sJ3uLJOC6N84PxyvvWa8VE/edit?usp=sharing)   
 
 #### Week 14 ~ Policy ~ 5/6
 **Readings**  
