@@ -110,4 +110,10 @@ We will be trying out some of Viewshare's visualization tools, including the Map
 <td align="center">N</td>
 <td>If you are describing a resource online, include the URL here. It may be a duplicate of dc:identifier.</td>
 </tr>
+<tr>
+<td>local:genre</td>
+<td>The specific genre of the resource</td>
+<td align="center">Y</td>
+<td>Use this field for types more specific than DCMI type, (ex., "postcards" or "books").</td>
+</tr>
 </table>
